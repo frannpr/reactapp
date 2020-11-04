@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edito <code>src/App.js</code> y compruebo que al hacer commit, corra el test .
         </p>
         <a
           className="App-link"
