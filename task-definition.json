@@ -46,7 +46,7 @@
         "dockerLabels": null,
         "systemControls": null,
         "privileged": null,
-        "name": "api"
+        "name": "reactapp"
       }
     ],
     "placementConstraints": [],
