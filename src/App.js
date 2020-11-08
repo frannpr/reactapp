@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edito <code>src/App.js</code> y compruebo que al hacer commit, corra el test el 6/11  .
+          Edito <code>src/App.js</code> y compruebo que al hacer commit, corra el test el 8/11 y al lanzar la release, se haga la subida a aws ecr la imagen y se despliegue em ECS  .
         </p>
         <a
           className="App-link"
